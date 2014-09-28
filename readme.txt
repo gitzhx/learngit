@@ -4,3 +4,4 @@ fouth modify
 understand how stage works
 2014-09-28
 have create a repo on cite github
+a clone repo
