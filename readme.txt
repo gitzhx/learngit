@@ -3,3 +3,4 @@ git is free software distributed under GPL
 fouth modify
 understand how stage works
 2014-09-28
+have create a repo on cite github
