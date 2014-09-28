@@ -6,3 +6,4 @@ understand how stage works
 have create a repo on cite github
 a clone repo
 mv the clone repo
+append one line on branch dev
